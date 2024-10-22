@@ -11,8 +11,12 @@ Features
 
 How to Play
 
-  1.	Start the game by clicking the “Click to Play” button.
+        1.	Start the game by clicking the “Click to Play” button.
+  
 	2.	Guess the hidden word by clicking the letters.
+ 
 	3.	Correct guesses reveal the letter in the word.
+ 
 	4.	Incorrect guesses draw a part of the hangman.
+ 
 	5.	The game ends when you guess the word or the hangman figure is completed.
