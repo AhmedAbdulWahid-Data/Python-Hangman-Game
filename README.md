@@ -1,7 +1,7 @@
 Python Hangman Game 🎮
 
 Welcome to the Python Hangman Game, a classic word-guessing game built using Python and Pygame. Challenge yourself to guess the secret word before the hangman figure is completely drawn!
-[Hangman Game](
+
 
 
 
@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/9bde8e52-46ca-4dc8-81e3-bece87aaf759
 
 
 
-)
+
 Features
 
 	*	🔠 Guess letters to reveal the hidden word.
